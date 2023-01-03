@@ -1,11 +1,10 @@
 {
-  "name": "redux-thunk",
+  "name": "@mgol/redux-thunk",
   "version": "2.4.2",
   "license": "MIT",
-  "description": "Thunk middleware for Redux.",
-  "repository": "github:reduxjs/redux-thunk",
-  "bugs": "https://github.com/reduxjs/redux-thunk/issues",
-  "homepage": "https://github.com/reduxjs/redux-thunk",
+  "description": "(TEMPORARY FORK) Thunk middleware for Redux.",
+  "repository": "github:mgol/redux-thunk",
+  "homepage": "https://github.com/mgol/redux-thunk",
   "keywords": [
     "redux",
     "thunk",

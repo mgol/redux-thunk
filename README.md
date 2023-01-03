@@ -1,5 +1,7 @@
 # Redux Thunk
 
+**NOTE:** This is a temporary fork made while waiting for an upstream release; in most cases you should use the official `redux-thunk` version.
+
 Thunk [middleware](https://redux.js.org/tutorials/fundamentals/part-4-store#middleware) for Redux. It allows writing functions with logic inside that can interact with a Redux store's `dispatch` and `getState` methods.
 
 For complete usage instructions and useful patterns, see the [Redux docs **Writing Logic with Thunks** page](https://redux.js.org/usage/writing-logic-thunks).
